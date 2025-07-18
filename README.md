@@ -1,1 +1,4 @@
 # FinanMais
+NOW()
+USERMAIL()
+REQUIRED = TRUE
